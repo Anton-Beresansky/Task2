@@ -1,0 +1,56 @@
+body{
+    background-color: #f3f3f3;
+}
+.wrapper{
+    width: 500px;
+    margin: 0 auto;
+}
+H1{
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+H2{
+    font-family: "Myriad Pro";
+    font-size: 18px;
+    font-weight: bold;
+    color: #1f1f1f;
+}
+.photo{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    border: 1px solid #8f8f8f;
+}
+.my_info{
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    color: #1f1f1f;
+}
+ul{
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    color: #3a3a3a
+}
+.reasons_list{
+    color: #3b3b3b;
+}
+.my_phone_numbers{
+    color: #3a3a3a;
+    list-style-type: none;
+}
+a {
+    color: #0056d3;
+    margin-left: 50px;
+}
+div{
+    border-bottom: 1px solid #8f8f8f;
+    padding-bottom: 10px;
+}
+.wrapper,
+.feedback{
+    border-bottom: none;
+}
